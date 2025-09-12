@@ -21,7 +21,7 @@ A simple all-in-one Roblox script to:
 ------------------------------
 📖 How to Use
 ------------------------------
-1. Copy the script above.
+1. Copy the script from the script.lua file.
 2. Open Roblox and your executor (e.g. Synapse, Fluxus, etc.).
 3. Paste the script and execute.
 4. Enjoy AFK farming without worrying about being kicked!
