@@ -1,6 +1,6 @@
-==============================
+
   Roblox Anti-AFK + Auto Rejoin
-==============================
+=
 
 A simple all-in-one Roblox script to:
 - Prevent AFK kick (Anti-AFK)
