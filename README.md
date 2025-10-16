@@ -4,7 +4,7 @@ A simple all-in-one Roblox script to:
 - Prevent AFK kick (Anti-AFK)
 - Automatically rejoin if disconnected/kicked
 - Minimal UI with Terminate Button
-- Hide UI with RightShift
+- Hide UI with H
 
 ## 🚀 Features
 
