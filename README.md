@@ -24,7 +24,7 @@ A simple all-in-one Roblox script to:
 
 ## 🎮 Controls
 
-- **RightShift:** Hide/Show UI
+- **H:** Hide/Show UI
 - **Terminate button:** Stop script instantly
 
 ## ⚠️ Disclaimer
