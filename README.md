@@ -12,7 +12,7 @@ A simple all-in-one Roblox script to:
 - **Auto Rejoin:** Instantly rejoins the game if disconnected or kicked.
 - **UI Controls:**
   - Terminate Button: Stop and remove the script anytime.
-  - RightShift Hotkey: Show/Hide the UI instantly.
+  - H Hotkey: Show/Hide the UI instantly.
 - **Lightweight:** Clean, minimal, and optimized for all games.
 
 ## 📖 How to Use
